@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm joshua daliva</h1>
 <h3 align="center">.net developer</h3>
-<img align="right" alt="Coding" width="400" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.pinterest.com%2Fpin%2F567523990538356835%2F&psig=AOvVaw1E-GYVFEagHy5Kj42cI8fB&ust=1700317398775000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCNC5v9Kdy4IDFQAAAAAdAAAAABAE">
-
+<img align="right" alt="Coding" width="400" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Programming123najra.gif/800px-Programming123najra.gif?20220415084448"
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=joshuadaliva&label=Profile%20views&color=0e75b6&style=flat" alt="joshuadaliva" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=joshuadaliva" alt="joshuadaliva" /></a> </p>
