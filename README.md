@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm joshua daliva</h1>
-<h3 align="center">.net developer</h3>
+<h3 align="center">python developer</h3>
 <img align="center" alt="Coding" width="400" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Programming123najra.gif/800px-Programming123najra.gif?20220415084448"
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=joshuadaliva&label=Profile%20views&color=0e75b6&style=flat" alt="joshuadaliva" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=joshuadaliva" alt="joshuadaliva" /></a> </p>
 
-- 🌱 I’m currently learning **.net core framework**
+- 🌱 I’m currently learning **python programming**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
